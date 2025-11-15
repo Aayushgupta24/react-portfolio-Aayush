@@ -83,14 +83,14 @@ const Technologies = () => {
             {/* Right column of skills */}
             <div className="space-y-4">
               {[
-                "09. HTML & CSS",
+                "09. Python",
                 "10. ReactJS",
                
                 "11. Devops",
                 "12. NodeJS",
-                "13. ExpressJS",   
-                "14. Kafka",
-                "15. Express.js",
+                "13. ExpressJS & NestJS",   
+                "14. AWS",
+                "15. GenAI & LLMs",
                 "16. System Design"
               ].map(skill => (
                 <motion.li 
