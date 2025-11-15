@@ -22,7 +22,7 @@ const Navbar = () => {
         <a href="https://auth.geeksforgeeks.org/user/aayushkggfg/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank" rel="noopener noreferrer" aria-label="GeeksforGeeks">
           <SiGeeksforgeeks />
         </a>
-       <a
+       {/* <a
           href="https://drive.google.com/file/d/1eyo5lm0z6py6W-KkUtX4j6Ny5ITZmKyI/view"
           target="_blank"
           rel="noopener noreferrer"
@@ -31,7 +31,7 @@ const Navbar = () => {
         >
           <FaCode />
           <span className="ml-2 hidden sm:inline text-sm">Resume</span>
-        </a>
+        </a> */}
         <a
           href="https://leetcode.com/cap_America/"
           target="_blank"
